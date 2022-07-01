@@ -1,0 +1,15 @@
+/home/yura/Документы/Source/MatrixSharp/bin/Debug/net6.0/MatrixSharp
+/home/yura/Документы/Source/MatrixSharp/bin/Debug/net6.0/MatrixSharp.deps.json
+/home/yura/Документы/Source/MatrixSharp/bin/Debug/net6.0/MatrixSharp.runtimeconfig.json
+/home/yura/Документы/Source/MatrixSharp/bin/Debug/net6.0/MatrixSharp.dll
+/home/yura/Документы/Source/MatrixSharp/bin/Debug/net6.0/ref/MatrixSharp.dll
+/home/yura/Документы/Source/MatrixSharp/bin/Debug/net6.0/MatrixSharp.pdb
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.csproj.AssemblyReference.cache
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.AssemblyInfoInputs.cache
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.AssemblyInfo.cs
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.csproj.CoreCompileInputs.cache
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.dll
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/ref/MatrixSharp.dll
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.pdb
+/home/yura/Документы/Source/MatrixSharp/obj/Debug/net6.0/MatrixSharp.genruntimeconfig.cache
